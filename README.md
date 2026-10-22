@@ -1,4 +1,4 @@
-# chaewooda2[Uploading 승인썸네일스튜디오 (1).html…]()
+# 승인썸네일스튜디오
 <!doctype html>
 <html lang="ko">
 <head>
